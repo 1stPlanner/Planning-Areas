@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "primary_planning_area_code_9198400",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "E01023480", "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>LSOA21CD</td><td>E01023480</td></tr><tr><td>LSOA21NM</td><td>East Hertfordshire 018C</td></tr><tr><td>LSOA21NMW</td><td> </td></tr><tr><td>BNG_E</td><td>535508</td></tr><tr><td>BNG_N</td><td>211951</td></tr><tr><td>LAT</td><td>51.789822</td></tr><tr><td>LONG</td><td>-0.03665</td></tr><tr><td>Shape__Area</td><td>2458599.176537</td></tr><tr><td>Shape__Length</td><td>6622.974464</td></tr><tr><td>GlobalID</td><td>{432249BF-CDA8-4307-BB5A-7938086F8EF3}</td></tr></table></body></html>", "timestamp": null, "begin": null, "end": null, "altitudeMode": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "LSOA__code_": "E01023480", "primary_planning_area_code": 9198400, "secondary_planning_area_code": 9198000, "Primary_planning_area_name": "Hertford South Villages Primary", "planning_area_name": "Hertford & Ware Secondary" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -0.024036620612615, 51.788063916518773, 0.0 ], [ -0.022082927193226, 51.782537756844633, 0.0 ], [ -0.031010242864596, 51.78064997391396, 0.0 ], [ -0.036601902834166, 51.782612816101583, 0.0 ], [ -0.040873069475423, 51.780082681564409, 0.0 ], [ -0.051563207021057, 51.789236190865488, 0.0 ], [ -0.043111929460432, 51.798551160692959, 0.0 ], [ -0.042697625203274, 51.800171051160042, 0.0 ], [ -0.024036620612615, 51.788063916518773, 0.0 ], [ -0.024036620612615, 51.788063916518773, 0.0 ] ] ] ] } }
+]
+}

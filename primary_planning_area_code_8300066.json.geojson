@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "primary_planning_area_code_8300066",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "E01019505", "description": "<html><body><table border=\"1\"><tr><th>Field Name</th><th>Field Value</th></tr><tr><td>LSOA21CD</td><td>E01019505</td></tr><tr><td>LSOA21NM</td><td>Bolsover 007B</td></tr><tr><td>LSOA21NMW</td><td> </td></tr><tr><td>BNG_E</td><td>452930</td></tr><tr><td>BNG_N</td><td>370280</td></tr><tr><td>LAT</td><td>53.226952</td></tr><tr><td>LONG</td><td>-1.20861</td></tr><tr><td>Shape__Area</td><td>511750.601532</td></tr><tr><td>Shape__Length</td><td>4585.291905</td></tr><tr><td>GlobalID</td><td>{A2E14C3F-8B8C-447C-9571-3B8D4D4E779D}</td></tr></table></body></html>", "timestamp": null, "begin": null, "end": null, "altitudeMode": "clampToGround", "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "LSOA__code_": "E01019505", "primary_planning_area_code": 8300066, "secondary_planning_area_code": 8300105, "Primary_planning_area_name": "Whaley Thorns/Langwith Primary", "planning_area_name": "Secondary Staveley/Bolsover" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -1.209136099311924, 53.222770884161157, 0.0 ], [ -1.214394233659522, 53.222979456932521, 0.0 ], [ -1.210054330588199, 53.226523178241393, 0.0 ], [ -1.215030043212971, 53.228021253413907, 0.0 ], [ -1.207555425367152, 53.229625977542547, 0.0 ], [ -1.209416970375816, 53.236730995090213, 0.0 ], [ -1.205255393361435, 53.237041511054883, 0.0 ], [ -1.202031318673825, 53.235320845908788, 0.0 ], [ -1.209136099311924, 53.222770884161157, 0.0 ], [ -1.209136099311924, 53.222770884161157, 0.0 ] ] ] ] } }
+]
+}
